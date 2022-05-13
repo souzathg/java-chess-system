@@ -6,5 +6,9 @@
     ],
     "cSpell.words": [
       "boardgame"
+    ],
+    "cSpell.ignoreWords": [
+      "queenside",
+      "specialmove"
     ]
 }
